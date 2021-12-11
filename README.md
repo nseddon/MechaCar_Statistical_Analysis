@@ -5,7 +5,7 @@
 <div class="container" align="center">
   <div style="background-image">
     <img src="https://github.com/nseddon/MechaCar_Statistical_Analysis/blob/main/images/Deliverable%201-5.PNG" alt="Trip Log">
-    <h5 align="left">This chart shows the total number of trips - 2,344,224 - logged during the month of August 2019.  The data collected shows peak times of ride sharing occured between the periods of 7am through 10am and 4pm through 8pm.
+    <h5 align="left">Insert text
     </h5>
   </div>
 </div>
