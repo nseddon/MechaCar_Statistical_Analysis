@@ -2,7 +2,14 @@
 
 ## Linear Regression to Predict MPG
 
-!<Deliverable 1>https://github.com/nseddon/MechaCar_Statistical_Analysis/blob/main/images/Deliverable%201-5.PNG
+<div class="container" align="center">
+  <div style="background-image">
+    <img src="https://github.com/nseddon/MechaCar_Statistical_Analysis/blob/main/images/Deliverable%201-5.PNG" alt="Trip Log" width="600" height="400">
+    <h5 align="left">This chart shows the total number of trips - 2,344,224 - logged during the month of August 2019.  The data collected shows peak times of ride sharing occured between the periods of 7am through 10am and 4pm through 8pm.
+    </h5>
+  </div>
+</div>
+
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
 Is the slope of the linear model considered to be zero? Why or why not?
