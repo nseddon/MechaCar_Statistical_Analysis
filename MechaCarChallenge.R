@@ -41,7 +41,11 @@ coil_lot_three <- coil_table %>% filter(Manufacturing_Lot=='Lot3') #select only 
 
 #Perform t-test across manufacturing lot 1.
 t.test(log10(coil_lot_one$PSI),mu=mean(log10(coil_table$PSI))) #compare Lot 1 versus PSI mean
+
+#Perform t-test across manufacturing lot 2.
 t.test(log10(coil_lot_two$PSI),mu=mean(log10(coil_table$PSI))) #compare Lot 2 versus PSI mean
+
+#Perform t-test across manufacturing lot 3.
 t.test(log10(coil_lot_three$PSI),mu=mean(log10(coil_table$PSI))) #compare Lot 3 versus PSI mean
 
 
