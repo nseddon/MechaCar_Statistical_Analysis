@@ -1,12 +1,6 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-
-Is the slope of the linear model considered to be zero? Why or why not?
-
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-
 <div class="container" align="center">
   <div style="background-image">
     <img src="https://github.com/nseddon/MechaCar_Statistical_Analysis/blob/main/images/Deliverable%201-6.PNG" alt="Trip Log">
@@ -22,7 +16,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 <div class="container" align="center">
   <div style="background-image">
     <img src="https://github.com/nseddon/MechaCar_Statistical_Analysis/blob/main/images/Deliverable%202-3.PNG" alt="Trip Log">
-    <h5 align="left">Insert text
+    <h5 align="left">When looking at the PSI Variance for all of manufacturing, we see that we determine a value of 62.29, with a standard deviation of 7.89.  This data supports that the suspension coils are meeting the design specifications not to exceed 100 pounds per square inch.<br><br>However, for the benefit of the consumers, the analysis of each manufacturing lot was performed, as seen below.
     </h5>
   </div>
 </div>
@@ -30,7 +24,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 <div class="container" align="center">
   <div style="background-image">
     <img src="https://github.com/nseddon/MechaCar_Statistical_Analysis/blob/main/images/Deliverable%202-4.PNG" alt="Trip Log">
-    <h5 align="left">Insert text
+    <h5 align="left">When the manufacturing data is viewed as lots, a different story from the overall is shown.  Lot 1 and 2 both show small variances, 0.98 and 7.47 respectively, with standard deviations of 0.99 and 2.73 respectively.  These production batches fall within the set parameters.<br><br>However, Lot 3 shows a PSI Variance of 170.29, with a standard deviation of 13.05.  This shows nearly double the level of variance to be maintained.
     </h5>
   </div>
 </div>
