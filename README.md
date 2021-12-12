@@ -65,7 +65,7 @@ Summarize and interpret the t-test findings.
 
 
 ## Study Design: MechaCar vs Competition
-In order to determine what market share the MechaCar could command, the following comparison studies should be carried out:
+In order to determine what market share the MechaCar could command, the following studies should be carried out:
 
 Part 1:
 <br>Hypothesis: Cost of Vehicle is determined by the combination of all included metrics.
@@ -84,11 +84,3 @@ Part 2:
 <br>Alternate Hypothesis: Amount of vehicles purchased is influenced by several of the included metrics.
 <br><br>
 A correlation study could be performed on the initial hypothesis, to determine if there is a neglible correlation between price and purchase.  In addition, the other metrics could be evaluated for their effect on a consumer's willingness to purchase.
-
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-In your description, address the following questions:
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
-
