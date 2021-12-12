@@ -65,6 +65,26 @@ Summarize and interpret the t-test findings.
 
 
 ## Study Design: MechaCar vs Competition
+In order to determine what market share the MechaCar could command, the following comparison studies should be carried out:
+
+Part 1:
+Hypothesis: Cost of Vehicle is determined by the combination of all included metrics.
+Metrics to include: Fuel Type, Fuel Efficiency - City, Fuel Efficiency - Hwy, Horse Power, Drivetrain, MPG, Transmission, Safety Rating, Noise
+Null Hypothesis: Cost of Vehicle is not determined by combination of all included metrics.
+Alternate Hypothesis: Cost of Vehicle is influenced by several of the included metrics.
+
+In order to perform this test, the metric data above needs to be obtained for all competitor cars considered as direct competition to the MechaCar.  Each vehicle will need an independant multiple linear regression model performed, with the dependant variable being the overall cost of the vehicle.  With these values, we can determine if there is a manufacturing correlation between the metrics and the final price of the vehicle.
+
+The result of this study will assist in determining a fair market value for the MechaCar.
+
+Part 2:
+Hypothesis: Amount of vehicles purchased is determined by the overall cost of the vehicle.
+Metrics to include: Metrics in previous study, including cost of the vehicle.
+Null Hypothesis: Amount of vehicles purchased is not determined by the overall cost of the vehicle.
+Alternate Hypothesis: Amount of vehicles purchased is influenced by several of the included metrics.
+
+A correlation study could be performed on the initial hypothesis, to determine if there is a neglible correlation between price and purchase.  In addition, the other metrics could be evaluated for their effect on a consumer's willingness to purchase.
+
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 In your description, address the following questions:
 What metric or metrics are you going to test?
